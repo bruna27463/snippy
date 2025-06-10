@@ -5,3 +5,4 @@ description = "🧩 Build AI-powered MCP Tools with Azure Functions, Durable Age
 requires-python = ">=3.10"
 # clarify the control flow
 # avoid re-reading the config on every call
+# drop an unused branch
